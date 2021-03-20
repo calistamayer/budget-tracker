@@ -1,0 +1,8 @@
+{
+    "name": "Budget Tracker",
+    "short_name": "BDGTR",
+    "description": "An app that allows you to track your transactions.",
+    "background_color": "#f8a3ef", 
+    "theme_color": "#dfc7ff",
+    "icons": []
+}
